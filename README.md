@@ -41,24 +41,31 @@ Clone or download the source code from [this GitHub repository](https://github.c
 - Use the following credentials:
   - **Username:** Nurhodelta
   - **Password:** password
+
 ### Step 8: Home Page
-After successful login, you'll be directed to the home page.
-![Home Page](votesystem/images/step 7.png){:height="medium" width="medium"}
+After successfully logging in, you'll be directed to the home page.
 
-### Step 9: List of Voters
-Enter a list of voters according to your candidate.
-![Voters List](votesystem/images/step 9.png){:height="medium" width="medium"}
+![Home Page](votesystem/images/step7.png)
 
-### Step 10: Add Positions
-Add names of positions for voting.
-![Positions](votesystem/images/step 10.png){:height="medium" width="medium"}
+### Step 9: Voters List
+Enter a list of voters based on your candidates.
+
+![Voters List](votesystem/images/step9.png)
+
+### Step 10: Add Positions Name
+Specify the names of positions for voting.
+
+![Positions Name](votesystem/images/step10.png)
 
 ### Step 11: Ballot Position
-Define the ballot position.
-![Ballot Position](votesystem/images/step 12.png){:height="medium" width="medium"}
+This is where you can view the ballot position.
 
-### Step 12: Final Results
-The final results will be displayed in a bar chart.
-![Final Results](votesystem/images/step 13.png){:height="medium" width="medium"}
+![Ballot Position](votesystem/images/step12.png)
+
+### Step 12: Results
+The final results are presented in a bar chart format for clarity.
+
+![Final Results](votesystem/images/step13.png)
+
 
 Happy Voting!
