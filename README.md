@@ -2,7 +2,7 @@
 
 A simple and robust online voting system built using PHP. This project requires a SQL server and can be hosted on localhost using XAMPP.
 
-![Online Voting System Login Page](votesystem/images/step 6.png)  <!-- Add the direct link to your image in place of URL_TO_YOUR_IMAGE -->
+ <!-- Add the direct link to your image in place of URL_TO_YOUR_IMAGE -->
 
 ## Prerequisites
 - XAMPP
@@ -41,5 +41,24 @@ Clone or download the source code from [this GitHub repository](https://github.c
 - Use the following credentials:
   - **Username:** Nurhodelta
   - **Password:** password
+### Step 8: Home Page
+After successful login, you'll be directed to the home page.
+![Home Page](votesystem/images/step 7.png){:height="medium" width="medium"}
+
+### Step 9: List of Voters
+Enter a list of voters according to your candidate.
+![Voters List](votesystem/images/step 9.png){:height="medium" width="medium"}
+
+### Step 10: Add Positions
+Add names of positions for voting.
+![Positions](votesystem/images/step 10.png){:height="medium" width="medium"}
+
+### Step 11: Ballot Position
+Define the ballot position.
+![Ballot Position](votesystem/images/step 12.png){:height="medium" width="medium"}
+
+### Step 12: Final Results
+The final results will be displayed in a bar chart.
+![Final Results](votesystem/images/step 13.png){:height="medium" width="medium"}
 
 Happy Voting!
